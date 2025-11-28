@@ -1,4 +1,1 @@
-echo "welcome to the demo project"
-echo "This is my new project"
-echo "Hamsini"
-echo "Hello"
+echo "Exercise"
